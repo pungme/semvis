@@ -20,3 +20,7 @@ queries formulation to gather the same data.
 * first iteration: program all examples (query, D3 configuration)
 * second iteration: design a program that abstracts all examples in a
 framework fashion
+
+[Update] found a project with similar (but not identical) goals
+called [D3SPARQL](https://github.com/ktym/d3sparql/). Should read it
+and maybe fork it.
